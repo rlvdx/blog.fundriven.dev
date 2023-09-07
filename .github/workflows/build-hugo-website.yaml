@@ -11,7 +11,7 @@ defaults:
 
 jobs:
 
-  build:
+  build-hugo-website:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.114.0
